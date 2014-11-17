@@ -8,6 +8,7 @@ public class Nhanvien {
         // TODO code application logic here
 		
 		System.out.println("Hellos");
+		System.out.println("Hellos");
 		
     }
 }
